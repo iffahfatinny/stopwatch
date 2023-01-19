@@ -17,6 +17,15 @@ table{
 
 #colon-symbol{
   padding-bottom: 30px;
+  font-weight: lighter
+}
+
+#dot{
+  font-weight: lighter;
+}
+
+span{
+  font-size: 60px;
 }
 
 button{
