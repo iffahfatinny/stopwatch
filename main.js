@@ -4,6 +4,7 @@ var sec = 00;
 var minutes = 00;
 function start(){
   //setInterval() repeats a given function at every given time-interval
+  clearInterval(time);
   time = setInterval(startTime,10);
 }
 function stop(){
